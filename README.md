@@ -12,11 +12,16 @@ Este proyecto es una **landing page interactiva** que presenta un video tributo 
 ## 📂 Estructura del Proyecto
 
 📦 Proyecto 
-│-- 📜 index.html # Estructura de la página 
+│-- 📜 index.html # Estructura de la página
+
 │-- 🎨 styles.css # Estilos y animaciones 
+
 │-- 🎭 script.js # Funcionalidades interactivas 
+
 │-- 📁 img/ # Imágenes y logotipos 
+
 │-- 📁 fonts/ # Tipografías personalizadas 
+
 │-- 📁 video/ # Video tributo
 
 ## 🛠️ Tecnologías Utilizadas
