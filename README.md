@@ -44,7 +44,7 @@ El video ha sido editado con **Kdenlive** e incluye los siguientes efectos:
 
 Puedes acceder a la página en **GitHub Pages** (si lo has publicado):
 
-🔗 [Ver Proyecto en Vivo]((https://joannmr.github.io/M09UF2AC3-Joan-Merino-y-Sergi-Martinez/))
+🔗 [Ver Proyecto en Vivo](https://joannmr.github.io/M09UF2AC3-Joan-Merino-y-Sergi-Martinez/)
 
 ## 📥 Descargar el Video
 
